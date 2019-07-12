@@ -1,0 +1,17 @@
+
+body{
+	background-color:#33476b;
+	color:rgb(0, 161, 197);
+}
+#para {
+	width:1660px;
+	margin:center;
+	font-family:"Times New Roman", Times, serif;
+	font-size:2em;
+	border-style:inset;
+}
+#cat {
+  border-style: solid;
+  border-width: 15px;
+  color:rgb(244, 67, 54)
+}
